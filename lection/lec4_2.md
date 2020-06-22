@@ -2,18 +2,18 @@
 
 <table border="0.5">
    <tr>
-    <td>DaaS (Desktop as a service)</td> 
+    <td>1. DaaS (Desktop as a service)</td> 
   </tr>
   <tr>
-   <td>SAAS (Software as a service)</td>         
+   <td>2. SAAS (Software as a service)</td>         
   </tr>
    <tr>
-    <td>PAAS (Platform as a service)</td>
+    <td>3. PAAS (Platform as a service)</td>
   </tr>
    <tr>
-    <td>IAAS (Infrastructure as a service)</td>
+    <td>4. IAAS (Infrastructure as a service)</td>
   </tr>
   <tr>
-    <td>Хостинг или инфраструктура предприятия</td>
+    <td>5. Хостинг или инфраструктура предприятия</td>
   </tr>
 </table>
